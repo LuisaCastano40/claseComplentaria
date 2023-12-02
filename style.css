@@ -1,4 +1,28 @@
-.miCarrusel{
-    max-height: 60vh;
-    width: 100%;
+
+.miCarrusel{    
+    width: 100vh;    
+    max-height: 60vh;    
+    display: flex;    
+    align-items: center;    
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+}
+
+.contenedorProducto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.miTarjeta img{
+    max-height: 200px;
+}
+
+.miTarjeta:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
 }
