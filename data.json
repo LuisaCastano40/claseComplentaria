@@ -1,0 +1,22 @@
+[
+    {
+      "nombre": "Cheesecake de frutos rojos",
+      "imagen": "https://www.pngall.com/wp-content/uploads/7/Dessert-PNG-Photo.png",
+      "precio": 29900
+    },
+    {
+      "nombre": "Tarta selva negra",
+      "imagen": "https://media.istockphoto.com/id/523562271/es/foto/tarta-selva-negra-decoradas-con-crema-batida-y-cerezas.jpg?s=612x612&w=0&k=20&c=6_-C1FYW5KxWzAVCcHZdNHECS-arquVDZ9AzPWr84J8=",
+      "precio": 39900
+    },
+    {
+      "nombre": "Torta de chocolate",
+      "imagen": "https://www.pngall.com/wp-content/uploads/8/Chocolate-Cake-PNG-Clipart.png",
+      "precio": 80000
+    },
+    {
+      "nombre": "Tarta de queso con caramelo",
+      "imagen": "https://st2.depositphotos.com/3959073/9341/i/450/depositphotos_93416956-stock-photo-slice-of-cheesecake-topped-with.jpg",
+      "precio": 19000
+    }
+  ]
